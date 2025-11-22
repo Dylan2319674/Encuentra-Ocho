@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//comentario de prueba
 int main() {
     int n;
     cin>>n;
